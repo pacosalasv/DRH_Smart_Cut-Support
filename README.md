@@ -1,37 +1,27 @@
 # DRH - Smart Cut
 
-**Status: Planned / public roadmap**
+Planned precision-cutting tools for slicing, symmetry cuts, cutter planes, caps, and hard-surface preparation.
 
-Planned precision cutting workflows for slicing, symmetry cuts, cutter planes, caps, and hard-surface preparation.
+| Status | Distribution |
+|---|---|
+| Planned | No public installable release |
 
-This repository reserves the public support and documentation location for **DRH - Smart Cut** in the DRH Blender Tools ecosystem by **Paco Salas | DRH**.
+## Repository scope
 
-## What is public now
+This repository reserves the public documentation and support location for DRH - Smart Cut. Product direction and status may be published here before a release; installable packages are not.
 
-- product direction and status
-- a stable place for future documentation, support, feedback, and release notes
-- an Issues/Discussions destination once public testing becomes useful
+When an official release is available, distribution is expected through [BlendKit](https://www.blendkit.com/?query=author_id:205846). GitHub remains the documentation and support layer unless that model changes.
 
-## Distribution
+## Feedback
 
-There is **no public installable release here yet**.
+Use [GitHub Issues](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues) for focused product or workflow feedback. Do not post credentials, private files, confidential project information, or unpublished client material.
 
-When an official release becomes available, the installable package will be distributed through **BlendKit**. GitHub will remain the support/documentation layer unless the publication model is explicitly changed.
-
-**Do not download or install source/packages from this repository as a product release.**
-
-## Current status
-
-Development is not being represented as released or marketplace-ready. Public details will be expanded only when they are useful and safe to publish.
+## Related links
 
 - [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
 - [Paco Salas | DRH on BlendKit](https://www.blendkit.com/?query=author_id:205846)
 - [Support DRH development on Ko-fi](https://ko-fi.com/pacosalasv)
 
-## Feedback
-
-Use GitHub Issues for concise product/workflow feedback. Please do not submit confidential project information, private files, credentials, or unpublished client material.
-
 ---
 
-Authored by **Paco Salas | DRH**.
+Authored by Paco Salas | DRH.
