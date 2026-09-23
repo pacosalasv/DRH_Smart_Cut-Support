@@ -1,17 +1,16 @@
 <div align="center">
-  <img width="760" alt="DRH - Smart Cut — planned DRH add-on" src="docs/media/ComingSoon.png" />
+
+<img width="860" alt="DRH - Smart Cut featured image" src="docs/media/Featured_Image.png" />
 
 # DRH - Smart Cut
 
-### Support · Roadmap · Feedback · Planned
+**Planned precision-cutting tools for slicing, symmetry cuts, cutter planes, caps, and hard-surface preparation**
 
-Planned precision-cutting tools for slicing, symmetry cuts, cutter planes, caps, and hard-surface preparation.
+![Status](https://img.shields.io/badge/Status-Planned-64748B?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-Roadmap-00B7FF?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/status-Planned-64748B?style=for-the-badge)
-![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
-
-[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-[![BlendKit catalog](https://img.shields.io/badge/BlendKit-DRH%20Catalog-0B1F4D?style=for-the-badge)](https://www.blendkit.com/?query=author_id:205846)
+[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -23,45 +22,56 @@ Planned precision-cutting tools for slicing, symmetry cuts, cutter planes, caps,
 
 This repository is the public documentation, roadmap, support, and feedback location for DRH - Smart Cut. It does not contain an installable add-on package.
 
-## Status and availability
+## Product status
 
 | Item | Details |
 |---|---|
-| Status | Planned |
-| Public installable release | Not available |
-| Expected distribution model | BlendKit for approved releases |
-| GitHub role | Documentation, roadmap, support, Issues, and Discussions |
+| Status | **Planned** |
+| Version | Roadmap |
+| Blender | 4.2+ |
+| Platforms | To be confirmed |
+| Availability | No public installable release is available yet. |
+| Distribution | Planned release channel: DRH catalog / approved marketplace listing. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
 
-Product direction may change before a release. A direct BlendKit product link will be added only after an approved public listing exists.
+Product direction may change before a public release.
 
-## Documentation
+## Capabilities
 
-- [Support guide](SUPPORT.md)
-- [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
+| Capability |
+|---|
+| Planned precision-cutting tools for slicing, symmetry cuts, cutter planes, caps, and hard-surface preparation |
 
-## Support
+## Media
 
-Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Smart_Cut-Support/discussions) for workflow ideas, questions, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues/new/choose) for focused product requests or repository problems.
+The featured image above is the current public preview for this repository.
 
-See [SUPPORT.md](SUPPORT.md) for the shared DRH support format and reporting guidance.
+## Documentation and support
+
+| Resource | Link |
+|---|---|
+| Support guide | [Support guide](SUPPORT.md) |
+| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Smart_Cut-Support/discussions) |
+| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues/new/choose) |
+
+Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
+
+Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
 
 ## Support DRH development
 
-DRH development support is optional. Ko-fi contributions help cover maintenance, Blender compatibility work, documentation, testing, and continued development of free tools.
+If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Support DRH development on Ko-fi" src="docs/media/kofi_donate.png" />
+    <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
 </div>
 
-## Ecosystem links
+## DRH ecosystem
 
-- [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
-- [Paco Salas | DRH on BlendKit](https://www.blendkit.com/?query=author_id:205846)
-- [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
-- [Ko-fi](https://ko-fi.com/pacosalasv)
-
----
-
-Authored by Paco Salas | DRH.
+| Destination | Link |
+|---|---|
+| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
