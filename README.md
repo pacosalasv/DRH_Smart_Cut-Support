@@ -6,11 +6,9 @@
 
 **Planned precision-cutting tools for slicing, symmetry cuts, cutter planes, caps, and hard-surface preparation**
 
-![Status](https://img.shields.io/badge/Status-Planned-64748B?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-Roadmap-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Planned-64748B?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-Roadmap-00B7FF?style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge) ![Platforms](https://img.shields.io/badge/Platforms-To%20be%20confirmed-64748B?style=for-the-badge)
 
-[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![Roadmap](https://img.shields.io/badge/Roadmap-View-64748B?style=for-the-badge)](#product-status) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add-ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -44,23 +42,27 @@ Product direction may change before a public release.
 
 ## Media
 
-The featured image above is the current public preview for this repository.
+No public product screenshots are available yet. The roadmap preview is shown below.
+
+<div align="center">
+  <img width="620" alt="DRH - Smart Cut roadmap preview" src="docs/media/ComingSoon.png" />
+</div>
+
+## Product reference
+
+This repository is the public roadmap and support surface for the planned product. Scope may change before a release is approved.
 
 ## Documentation and support
 
 | Resource | Link |
 |---|---|
-| Support guide | [Support guide](SUPPORT.md) |
-| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Smart_Cut-Support/discussions) |
-| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues/new/choose) |
+| Support guide | [SUPPORT.md](SUPPORT.md) |
+| Issues | [Open or review issues](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues) |
+| Discussions | [Ask questions and share feedback](https://github.com/pacosalasv/DRH_Smart_Cut-Support/discussions) |
 
-Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
+## Support development
 
-Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
-
-## Support DRH development
-
-If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
+Ko-fi support is optional. Contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -68,10 +70,14 @@ If this project or another free DRH tool saves you time, optional Ko-fi support 
   </a>
 </div>
 
-## DRH ecosystem
+## Ecosystem
 
 | Destination | Link |
 |---|---|
-| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
+
+## License
+
+No installable product is distributed from this roadmap repository. Product licensing will be stated with an approved public release.
