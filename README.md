@@ -8,7 +8,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Planned-64748B?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-Roadmap-00B7FF?style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge) ![Platforms](https://img.shields.io/badge/Platforms-To%20be%20confirmed-64748B?style=for-the-badge)
 
-[![Roadmap](https://img.shields.io/badge/Roadmap-View-64748B?style=for-the-badge)](#product-status) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add-ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![Support](https://img.shields.io/badge/Support-Issues-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues) [![DRH Hub](https://img.shields.io/badge/DRH%20HUB-Catalog-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -66,10 +66,16 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 
 | Destination | Link |
 |---|---|
+| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| Issues & feedback | [GitHub Issues](https://github.com/pacosalasv/DRH_Smart_Cut-Support/issues) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
-| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
-| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
+| BlendKit | [DRH Blender catalog](https://www.blendkit.com/?query=author_id:205846) |
+| Paco Salas \| DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| Xtreme Mindset | [Product lab](https://xtrememindset.blogspot.com/) |
+| Sketchfab / Código Píxel | [3D model collections](https://sketchfab.com/codigopixel/collections) |
+| KreaOn | [Technology education](https://www.kreaon.com/) |
+| PiNu | [Connected physical products](https://pinu.com.mx/) |
+| GitHub | [pacosalasv](https://github.com/pacosalasv) |
 
 ## License
 
